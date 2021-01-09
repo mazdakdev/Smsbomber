@@ -14,8 +14,12 @@ then change your directory to repository
 > $ cd Sms_Bomber
 
 install tor
+
 > $ sudo apt-get install tor
+
 run tor
+
 > $ tor
+
 then run script 
-> python3 Sms_Bomber.py
+> python3 sms_bomber.py
