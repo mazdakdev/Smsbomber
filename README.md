@@ -1,5 +1,21 @@
-hi this is advance sms bomber created by python to use it need to install tor firtst
+<h1>Sms_Bomber</h1>
+<h3>Mazdak Pakaghideh<h3/>
 
-$ sudo apt-get install tor
-$tor
-$python3 sms_bomber.py
+![](https://img.shields.io/github/stars/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/watchers/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/forks/mazdakpak/admin-panel-finder?style=plastic)
+
+
+
+this script only works for iran cellphones
+
+first of clone the script
+> $ git clone https://github.com/mazdaakpak/Sms_Bomber
+
+then change your directory to repository
+> $ cd Sms_Bomber
+
+install tor
+> $ sudo apt-get install tor
+run tor
+> $ tor
+then run script 
+> python3 Sms_Bomber.py
