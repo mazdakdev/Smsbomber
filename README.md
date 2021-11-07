@@ -1,5 +1,5 @@
 <h1>Sms_Bomber</h1>
-<h3>Mazdak Pakaghideh<h3/>
+<h3>MEHRSAM1111<h3/>
 
 ![](https://img.shields.io/github/stars/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/watchers/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/forks/mazdakpak/admin-panel-finder?style=plastic)
 
