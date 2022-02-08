@@ -1,25 +1,42 @@
-<h1>Sms_Bomber</h1>
-<h3>MEHRSAM1111<h3/>
+# iranian SMS-BOMBER
 
-![](https://img.shields.io/github/stars/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/watchers/mazdakpak/admin-panel-finder?style=plastic) ![](https://img.shields.io/github/forks/mazdakpak/admin-panel-finder?style=plastic)
+- - - -
+## Note : that script is created for educational purpose and don't misuse this script 
+
+# whatsapp-spammer
+
+### This script is only for educational purpose and We are not responsible for your actions
+
+- - - -
+
+# Tools Used to develope this script🎯
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
+- - - - 
+# Installation 
 
-this script only works for iran cellphones
 
-first of clone the script
-> $ git clone https://github.com/mazdaakpak/Sms_Bomber
+1/4 Clone the repository
+   
+    $ git clone https://github.com/mazdakdev/Smsbomber
+    
 
-then change your directory to repository
-> $ cd Sms_Bomber
-
-install tor
-
-> $ sudo apt-get install tor
-
-run tor
-
-> $ tor
-
-then run script 
-> python3 sms_bomber.py
+2/4 Change the directory
+   
+    $ cd Smsbomber
+    
+    
+3/4 Install tor and run it
+   
+    $ brew install tor OR apt-get install tor && tor
+    
+    
+ 4/4 Run the script
+   
+    $ python3 spammer.py
+    
+    
