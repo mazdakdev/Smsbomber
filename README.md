@@ -37,6 +37,6 @@
     
  4/4 Run the script
    
-    $ python3 spammer.py
+    $ python3 sms_bomber.py
     
     
