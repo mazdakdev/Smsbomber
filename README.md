@@ -1,12 +1,7 @@
 # iranian SMS-BOMBER
 
 - - - -
-## Note : that script is created for educational purpose and don't misuse this script 
-
-# whatsapp-spammer
-
-### This script is only for educational purpose and We are not responsible for your actions
-
+## CAUTION : this script is created for educational purpose and I'm not responsible for your usage.
 - - - -
 
 # Tools Used to develope this script🎯
